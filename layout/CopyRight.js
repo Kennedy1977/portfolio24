@@ -9,7 +9,8 @@ const CopyRight = () => {
           >
             <div className="text">
               <p className="text-white">
-                Copyright © 2023. All rights reserved.
+                Copyright &copy; {new Date().getFullYear()}. All rights
+                reserved.
               </p>
             </div>
             <div className="social">

@@ -52,13 +52,18 @@ const Portfolio = () => {
                     />
                     <div className="details absolute z-[2] bottom-[41px] left-[49px] transition-all duration-300">
                       <h3 className="text-[20px] font-bold mb-[4px]">
-                        Magic Art
+                        Pets at Home
                       </h3>
-                      <span className="font-poppins">Vimeo</span>
+                      <span className="font-poppins">E-commerce</span>
                     </div>
                     <a
-                      className="kura_tm_full_link absolute inset-0 z-[5] popup-vimeo"
-                      href="https://vimeo.com/337292310"
+                      className="kura_tm_full_link absolute inset-0 z-[5] portfolio_popup"
+                      href="#"
+                      onClick={(e) => {
+                        e.preventDefault();
+                        modalToggle(true);
+                        setPortfolioModal("item");
+                      }}
                     />
                   </div>
                 </SwiperSlide>
@@ -82,14 +87,17 @@ const Portfolio = () => {
                       alt=""
                     />
                     <div className="details absolute z-[2] bottom-[41px] left-[49px] transition-all duration-300">
-                      <h3 className="text-[20px] font-bold mb-[4px]">
-                        Bona Green
-                      </h3>
-                      <span className="font-poppins">Youtube</span>
+                      <h3 className="text-[20px] font-bold mb-[4px]">UMSL</h3>
+                      <span className="font-poppins">Design and Branding</span>
                     </div>
                     <a
-                      className="kura_tm_full_link absolute inset-0 z-[5] popup-youtube"
-                      href="https://www.youtube.com/watch?v=7e90gBu4pas"
+                      className="kura_tm_full_link absolute inset-0 z-[5] portfolio_popup"
+                      href="#"
+                      onClick={(e) => {
+                        e.preventDefault();
+                        modalToggle(true);
+                        setPortfolioModal("item");
+                      }}
                     />
                   </div>
                 </SwiperSlide>
@@ -119,8 +127,13 @@ const Portfolio = () => {
                       <span className="font-poppins">Soundcloud</span>
                     </div>
                     <a
-                      className="kura_tm_full_link absolute inset-0 z-[5] soundcloude_link mfp-iframe audio"
-                      href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/471954807&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+                      className="kura_tm_full_link absolute inset-0 z-[5] portfolio_popup"
+                      href="#"
+                      onClick={(e) => {
+                        e.preventDefault();
+                        modalToggle(true);
+                        setPortfolioModal("item");
+                      }}
                     />
                   </div>
                 </SwiperSlide>
@@ -217,8 +230,13 @@ const Portfolio = () => {
                       <span className="font-poppins">Image</span>
                     </div>
                     <a
-                      className="kura_tm_full_link absolute inset-0 z-[5] zoom"
-                      href="assets/img/portfolio/6.jpg"
+                      className="kura_tm_full_link absolute inset-0 z-[5] portfolio_popup"
+                      href="#"
+                      onClick={(e) => {
+                        e.preventDefault();
+                        modalToggle(true);
+                        setPortfolioModal("item");
+                      }}
                     />
                   </div>
                 </SwiperSlide>

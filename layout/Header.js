@@ -19,7 +19,7 @@ const Header = ({ dark }) => {
       <div className="wrapper w-full h-auto clear-both float-left transition-all duration-300">
         <div className="topbar_inner w-full h-auto clear-both flex items-center justify-between py-[30px] pr-[37px] pl-[50px] transition-all duration-300">
           <div className="logo">
-            <a href="#">
+            {/* <a href="#">
               <img
                 className="max-w-[70px] max-h-[70px]"
                 src={
@@ -27,7 +27,7 @@ const Header = ({ dark }) => {
                 }
                 alt=""
               />
-            </a>
+            </a> */}
           </div>
           <div className="menu flex items-center">
             <div className="list pr-[40px]">
@@ -56,7 +56,7 @@ const Header = ({ dark }) => {
                     Skills
                   </a>
                 </li>
-                <li className="mr-[20px] inline-block opacity-0 invisible relative left-[10px] transition-all duration-300">
+                {/* <li className="mr-[20px] inline-block opacity-0 invisible relative left-[10px] transition-all duration-300">
                   <a
                     className="text-black font-poppins transition-all duration-300"
                     href="#timeline"
@@ -71,7 +71,7 @@ const Header = ({ dark }) => {
                   >
                     Price
                   </a>
-                </li>
+                </li> */}
                 <li className="mr-[20px] inline-block opacity-0 invisible relative left-[10px] transition-all duration-300">
                   <a
                     className="text-black font-poppins transition-all duration-300"

@@ -34,13 +34,11 @@ const Priceing = () => {
                     <div className="list_inner w-full h-auto clear-both flex justify-between items-center relative py-[30px] pr-[30px] pl-[60px] bg-white rounded-[10px] transition-all duration-300">
                       <div className="title pr-[30px]">
                         <span className="text-[18px] text-black font-poppins transition-all duration-300">
-                          WordPress Development
+                          Responsive Web Development
                         </span>
                       </div>
                       <div className="cost">
-                        <span className="text-[18px] text-black font-poppins transition-all duration-300">
-                          $500
-                        </span>
+                        <span className="text-[18px] text-black font-poppins transition-all duration-300"></span>
                       </div>
                       <img
                         className="svg absolute left-[30px] w-[18px] h-[18px] top-1/2 translate-y-[-50%] text-secondary-color mt-[-1px] transition-all duration-300"
@@ -57,13 +55,11 @@ const Priceing = () => {
                     <div className="list_inner w-full h-auto clear-both flex justify-between items-center relative py-[30px] pr-[30px] pl-[60px] bg-white rounded-[10px] transition-all duration-300">
                       <div className="title pr-[30px]">
                         <span className="text-[18px] text-black font-poppins transition-all duration-300">
-                          HTML Development
+                          UI/UX Design Consulting
                         </span>
                       </div>
                       <div className="cost">
-                        <span className="text-[18px] text-black font-poppins transition-all duration-300">
-                          $400
-                        </span>
+                        <span className="text-[18px] text-black font-poppins transition-all duration-300"></span>
                       </div>
                       <img
                         className="svg absolute left-[30px] w-[18px] h-[18px] top-1/2 translate-y-[-50%] text-secondary-color mt-[-1px] transition-all duration-300"
@@ -80,13 +76,11 @@ const Priceing = () => {
                     <div className="list_inner w-full h-auto clear-both flex justify-between items-center relative py-[30px] pr-[30px] pl-[60px] bg-white rounded-[10px] transition-all duration-300">
                       <div className="title pr-[30px]">
                         <span className="text-[18px] text-black font-poppins transition-all duration-300">
-                          Content Writing
+                          Web Application Development
                         </span>
                       </div>
                       <div className="cost">
-                        <span className="text-[18px] text-black font-poppins transition-all duration-300">
-                          $300
-                        </span>
+                        <span className="text-[18px] text-black font-poppins transition-all duration-300"></span>
                       </div>
                       <img
                         className="svg absolute left-[30px] w-[18px] h-[18px] top-1/2 translate-y-[-50%] text-secondary-color mt-[-1px] transition-all duration-300"
@@ -103,13 +97,11 @@ const Priceing = () => {
                     <div className="list_inner w-full h-auto clear-both flex justify-between items-center relative py-[30px] pr-[30px] pl-[60px] bg-white rounded-[10px] transition-all duration-300">
                       <div className="title pr-[30px]">
                         <span className="text-[18px] text-black font-poppins transition-all duration-300">
-                          Brand Identity
+                          E-commerce Development
                         </span>
                       </div>
                       <div className="cost">
-                        <span className="text-[18px] text-black font-poppins transition-all duration-300">
-                          $200
-                        </span>
+                        <span className="text-[18px] text-black font-poppins transition-all duration-300"></span>
                       </div>
                       <img
                         className="svg absolute left-[30px] w-[18px] h-[18px] top-1/2 translate-y-[-50%] text-secondary-color mt-[-1px] transition-all duration-300"
@@ -126,13 +118,11 @@ const Priceing = () => {
                     <div className="list_inner w-full h-auto clear-both flex justify-between items-center relative py-[30px] pr-[30px] pl-[60px] bg-white rounded-[10px] transition-all duration-300">
                       <div className="title pr-[30px]">
                         <span className="text-[18px] text-black font-poppins transition-all duration-300">
-                          PSD Design
+                          Website Performance Optimization
                         </span>
                       </div>
                       <div className="cost">
-                        <span className="text-[18px] text-black font-poppins transition-all duration-300">
-                          $100
-                        </span>
+                        <span className="text-[18px] text-black font-poppins transition-all duration-300"></span>
                       </div>
                       <img
                         className="svg absolute left-[30px] w-[18px] h-[18px] top-1/2 translate-y-[-50%] text-secondary-color mt-[-1px] transition-all duration-300"

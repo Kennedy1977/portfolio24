@@ -35,19 +35,19 @@ const IndexDark = () => {
       <Hero />
       {/* /HERO */}
       {/* PORTFOLIO */}
-      <Portfolio />
+      {/* <Portfolio /> */}
       {/* /PORTFOLIO */}
       {/* SKILLS */}
       <Skills />
       {/* /SKILLS */}
       {/* TIMELINE */}
-      <TimeLine />
+      {/* <TimeLine /> */}
       {/* /TIMELINE */}
       {/* PRICING */}
-      <Priceing />
+      {/* <Priceing /> */}
       {/* /PRICING */}
       {/* NEWS */}
-      <News />
+      {/* <News /> */}
       {/* /NEWS */}
       {/* CONTACT */}
       <Contact />

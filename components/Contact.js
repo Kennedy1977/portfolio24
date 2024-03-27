@@ -19,9 +19,14 @@ const Contact = () => {
             >
               <div className="text w-full float-left mb-[42px]">
                 <p>
-                  Please fill out the form on this section to contact with me.
-                  Or call between 9:00 a.m. and 8:00 p.m. ET, Monday through
-                  Friday
+                  I'm here to help! Feel free to reach out between 9:00 a.m. and
+                  5:30 p.m., Monday through Friday, if you'd like to chat
+                  directly. Alternatively, filling out the form on this page is
+                  a great way to get in touch at your convenience. I aim to
+                  respond swiftly and offer the assistance you need. Your input
+                  and inquiries are valuable to me, and I'm ready to support you
+                  in any way I can. Let's connect and discuss how I can assist
+                  you!
                 </p>
               </div>
               <div className="short w-full float-left">
@@ -35,7 +40,7 @@ const Contact = () => {
                         alt=""
                       />
                       <span className="text-[18px] text-black font-poppins">
-                        44 Place, Tokyo, Japan
+                        Widnes, Halton, United Kingdom
                       </span>
                     </div>
                   </li>
@@ -47,7 +52,7 @@ const Contact = () => {
                         alt=""
                       />
                       <span className="text-[18px] text-black font-poppins">
-                        +77 033 442 55 57
+                        +44 7432 746 055
                       </span>
                     </div>
                   </li>
@@ -59,7 +64,7 @@ const Contact = () => {
                         alt=""
                       />
                       <span className="text-[18px] text-black font-poppins">
-                        dodo@gmail.com
+                        hello@andrewkennedydev.com
                       </span>
                     </div>
                   </li>
@@ -71,7 +76,7 @@ const Contact = () => {
                         alt=""
                       />
                       <span className="text-[18px] text-black font-poppins">
-                        www.domain.com
+                        www.andrewkennedydev.com
                       </span>
                     </div>
                   </li>

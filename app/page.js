@@ -1,7 +1,7 @@
 import Contact from "@/components/Contact";
 import Hero from "@/components/Hero";
-import Priceing from "@/components/Priceing";
-import TimeLine from "@/components/TimeLine";
+// import Priceing from "@/components/Priceing";
+// import TimeLine from "@/components/TimeLine";
 import Header from "@/layout/Header";
 import KuraLayout from "@/layout/KuraLayout";
 import MobileMenu from "@/layout/MobileMenu";
@@ -29,19 +29,19 @@ const Index = () => {
       <Hero />
       {/* /HERO */}
       {/* PORTFOLIO */}
-      <Portfolio />
+      {/* <Portfolio /> */}
       {/* /PORTFOLIO */}
       {/* SKILLS */}
       <Skills />
       {/* /SKILLS */}
       {/* TIMELINE */}
-      <TimeLine />
+      {/* <TimeLine /> */}
       {/* /TIMELINE */}
       {/* PRICING */}
-      <Priceing />
+      {/* <Priceing /> */}
       {/* /PRICING */}
       {/* NEWS */}
-      <News />
+      {/* <News /> */}
       {/* /NEWS */}
       {/* CONTACT */}
       <Contact />

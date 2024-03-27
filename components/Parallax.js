@@ -9,7 +9,7 @@ export default function Parallax() {
     jarallaxVideo();
     jarallax(document.querySelectorAll(".jarallax"), {
       speed: 0.2,
-      videoSrc: "https://www.youtube.com/watch?v=7e90gBu4pas",
+      videoSrc: "https://www.youtube.com/watch?v=TwmDtuUlUaw",
     });
   });
   return <div className="my_video absolute inset-0 jarallax" />;

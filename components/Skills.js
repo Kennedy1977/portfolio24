@@ -12,7 +12,7 @@ const Skills = () => {
     jarallaxVideo();
     jarallax(document.querySelectorAll(".jarallax"), {
       speed: 0.2,
-      videoSrc: "https://www.youtube.com/watch?v=7e90gBu4pas",
+      videoSrc: "https://www.youtube.com/watch?v=TwmDtuUlUaw",
     });
   });
 
@@ -27,10 +27,10 @@ const Skills = () => {
             <div className="left w-[60%] pr-[200px]">
               <div className="kura_tm_main_title w-full h-auto clear-both float-left">
                 <span className="inline-block mb-[10px] text-secondary-color font-poppins font-medium">
-                  Skills
+                  Professional Skills
                 </span>
                 <h3 className="font-extrabold uppercase text-white">
-                  Programming Skills
+                  Proven Track Record
                 </h3>
               </div>
               <div
@@ -38,9 +38,10 @@ const Skills = () => {
                 data-wow-duration=".7s"
               >
                 <p className="text-[#bbb]">
-                  For more than 20 years our experts have been accomplishing
-                  enough with modern Web Development, new generation web and app
-                  programming language.
+                  Through a sustained commitment to excellence and a constant
+                  pursuit of growth, I have established a solid foundation of
+                  trust with clients, making me a reliable partner for achieving
+                  digital aspirations.
                 </p>
               </div>
               <div
@@ -50,19 +51,8 @@ const Skills = () => {
               >
                 <div className="progress_inner" data-value={95}>
                   <span>
-                    <span className="label">HTML &amp; CSS</span>
+                    <span className="label">Web Development & Design</span>
                     <span className="number">95%</span>
-                  </span>
-                  <div className="background">
-                    <div className="bar">
-                      <div className="bar_in" />
-                    </div>
-                  </div>
-                </div>
-                <div className="progress_inner" data-value={80}>
-                  <span>
-                    <span className="label">JavaScript</span>
-                    <span className="number">80%</span>
                   </span>
                   <div className="background">
                     <div className="bar">
@@ -72,7 +62,9 @@ const Skills = () => {
                 </div>
                 <div className="progress_inner" data-value={90}>
                   <span>
-                    <span className="label">WordPress</span>
+                    <span className="label">
+                      Multimedia & Interactive Projects
+                    </span>
                     <span className="number">90%</span>
                   </span>
                   <div className="background">
@@ -80,6 +72,75 @@ const Skills = () => {
                       <div className="bar_in" />
                     </div>
                   </div>
+                </div>
+                <div className="progress_inner" data-value={98}>
+                  <span>
+                    <span className="label">
+                      Operational & Logistics Software
+                    </span>
+                    <span className="number">98%</span>
+                  </span>
+                  <div className="background">
+                    <div className="bar">
+                      <div className="bar_in" />
+                    </div>
+                  </div>
+                </div>
+                <div className="progress_inner" data-value={90}>
+                  <span>
+                    <span className="label">
+                      Performance Optimization & SEO
+                    </span>
+                    <span className="number">90%</span>
+                  </span>
+                  <div className="background">
+                    <div className="bar">
+                      <div className="bar_in" />
+                    </div>
+                  </div>
+                </div>
+                <div className="progress_inner" data-value={95}>
+                  <span>
+                    <span className="label">
+                      Core Skills (HTML5, CSS, JavaScript, React)
+                    </span>
+                    <span className="number">95%</span>
+                  </span>
+                  <div className="background">
+                    <div className="bar">
+                      <div className="bar_in" />
+                    </div>
+                  </div>
+                </div>
+                <div className="progress_inner" data-value={92}>
+                  <span>
+                    <span className="label">Project Management</span>
+                    <span className="number">92%</span>
+                  </span>
+                  <div className="background">
+                    <div className="bar">
+                      <div className="bar_in" />
+                    </div>
+                  </div>
+                </div>
+                <div className="progress_inner" data-value={100}>
+                  <span>
+                    <span className="label">Adaptability</span>
+                    <span className="number">100%</span>
+                  </span>
+                  <div className="background">
+                    <div className="bar">
+                      <div className="bar_in" />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="text w-full float-left mt-[40px] mb-[44px] wow fadeInUp"
+                  data-wow-duration=".7s"
+                >
+                  <p className="text-[#bbb]">
+                  The percentages reflect a nuanced understanding and mastery across various dimensions of web development and digital innovation. 
+                  </p>
                 </div>
               </div>
             </div>
@@ -92,7 +153,7 @@ const Skills = () => {
               <div
                 className="my_video absolute inset-0 jarallax"
                 data-speed={0}
-                data-jarallax-video="https://www.youtube.com/watch?v=7e90gBu4pas"
+                data-jarallax-video="https://www.youtube.com/watch?v=TwmDtuUlUaw"
               />
               <div
                 className="my_image absolute inset-0 bg-no-repeat bg-cover bg-center jarallax"

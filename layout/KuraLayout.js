@@ -5,7 +5,7 @@ import { Fragment, useEffect } from "react";
 import Audio from "./Audio";
 import CopyRight from "./CopyRight";
 import Cursor from "./Cursor";
-import Settings from "./Settings";
+// import Settings from "./Settings";
 const KuraLayout = ({ children }) => {
   useEffect(() => {
     kuraUtilit.dataImage();
@@ -22,7 +22,7 @@ const KuraLayout = ({ children }) => {
       >
         {/* If you want disable magic cursor change value to "hide" */}
         {/* SETTINGS */}
-        <Settings />
+        {/* <Settings /> */}
         {children}
         {/* COPYRIGHT */}
         <CopyRight />
